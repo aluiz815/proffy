@@ -1,6 +1,6 @@
-<h1 align="center">Dropbox UI Clone</h1>
+<h1 align="center">Proffy</h1>
 
-<h3 align="center">It's a clone of Dropbox UI</h3>
+<h3 align="center">It's an online teaching platform.</h3>
 
 <br/>
 
